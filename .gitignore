@@ -18,3 +18,7 @@ Plugins/*/Binaries/*
 
 
 
+Saved/Logs/GMTK2020.log
+Saved/Logs/GMTK2020.log
+*.log
+DerivedDataCache/*
