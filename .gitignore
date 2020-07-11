@@ -9,6 +9,12 @@
 *.xcodeproj
 *.xcworkspace
 Saved/*
-Itermidiate/*
-Saved/AutoScreenshot.png
-Saved/AutoScreenshot.png
+Intermediate/*
+Plugins/*/Intermediate/*
+DerivedDataCache/*
+*_BuiltData.uasset
+Binaries/*
+Plugins/*/Binaries/*
+
+
+
