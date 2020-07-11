@@ -8,3 +8,7 @@
 *.suo
 *.xcodeproj
 *.xcworkspace
+Saved/*
+Itermidiate/*
+Saved/AutoScreenshot.png
+Saved/AutoScreenshot.png
